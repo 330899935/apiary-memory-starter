@@ -10,7 +10,7 @@ No app. No account. No telemetry. No real personal data in this repo — every e
 |---|---|
 | **What it is** | A local SQLite file that any MCP client can read. An agent can only *propose* a memory; a human must approve it before recall can find it. |
 | **Who it's for** | One person, several machines, several AIs — and no desire to hand the memory to a vendor. |
-| **Try it now** | `git clone … && pip install apiary-memory && ./check.sh` (30 seconds, fake data) |
+| **Try it now** | [30-second walkthrough (中文演示页)](https://hello-fengchao.com/start.html?src=gh) · `git clone … && pip install apiary-memory && ./check.sh` (30 seconds, fake data) |
 | **What it is not** | Not a cloud service. No account, no telemetry. The desktop app is macOS-only; there is no Windows build. |
 
 ---
