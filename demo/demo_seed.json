@@ -1,0 +1,28 @@
+{
+  "_comment": "20 invented entries. No real names, projects, places, credentials or personal facts. This is the single source of truth for demo/memory.sqlite.",
+  "_generated_for": "apiary-memory-starter",
+  "entries": [
+    {"id":"mem_demo_001","state":"confirmed","title":"Northstar deploy window","content":"The Northstar service deploys every Tuesday at 09:00 UTC and freezes on the first Monday of each month for key rotation. Ben owns the rotation.","vault":"current","tags":"northstar deploy","created":1764000000,"confirmed_at":1764000060},
+    {"id":"mem_demo_002","state":"confirmed","title":"Lumen project convention","content":"In the Lumen project, every database migration must be reversible in one command before it is merged.","vault":"current","tags":"lumen convention","created":1764000100,"confirmed_at":1764000160},
+    {"id":"mem_demo_003","state":"confirmed","title":"Ada preference","content":"Ada prefers concise status updates with blockers first and no progress narration.","vault":"current","tags":"ada preference","created":1764000200,"confirmed_at":1764000260},
+    {"id":"mem_demo_004","state":"confirmed","title":"Ferry build limit","content":"The Ferry mobile build must stay under 40 MB because the target region has expensive mobile data.","vault":"current","tags":"ferry build","created":1764000300,"confirmed_at":1764000360},
+    {"id":"mem_demo_005","state":"confirmed","title":"Orchard API rule","content":"The Orchard API treats a missing tenant id as an error rather than a default; there is no implicit workspace.","vault":"current","tags":"orchard api","created":1764000400,"confirmed_at":1764000460},
+    {"id":"mem_demo_006","state":"confirmed","title":"Beacon review cadence","content":"Beacon design reviews happen on alternating Thursdays; skip the week of a public holiday.","vault":"current","tags":"beacon review","created":1764000500,"confirmed_at":1764000560},
+    {"id":"mem_demo_007","state":"confirmed","title":"Marble data retention","content":"Marble keeps evaluation logs for 30 days and deletes raw prompts at 7 days; both are configurable.","vault":"current","tags":"marble retention","created":1764000600,"confirmed_at":1764000660},
+    {"id":"mem_demo_008","state":"confirmed","title":"Quill writing rule","content":"Quill release notes never use the word revolutionary; the team considers it a warning sign.","vault":"current","tags":"quill writing","created":1764000700,"confirmed_at":1764000760},
+    {"id":"mem_demo_009","state":"confirmed","title":"Sparrow test command","content":"Sparrow's full regression suite is `make verify`; the fast subset is `make verify-fast` and skips network tests.","vault":"current","tags":"sparrow test","created":1764000800,"confirmed_at":1764000860},
+    {"id":"mem_demo_010","state":"confirmed","title":"Cedar ownership","content":"Cedar's billing module is owned by two people; a single-owner change is not accepted in review.","vault":"current","tags":"cedar ownership","created":1764000900,"confirmed_at":1764000960},
+    {"id":"mem_demo_011","state":"confirmed","title":"Pine offline mode","content":"Pine must remain fully functional for 72 hours without network access; sync resumes when connectivity returns.","vault":"current","tags":"pine offline","created":1764001000,"confirmed_at":1764001060},
+    {"id":"mem_demo_012","state":"confirmed","title":"Drift release rule","content":"Drift never ships on a Friday; the cutoff is Thursday 15:00 UTC.","vault":"current","tags":"drift release","created":1764001100,"confirmed_at":1764001160},
+    {"id":"mem_demo_013","state":"confirmed","title":"Harbor archive","content":"Harbor archives old projects once a year into a read-only vault; nothing is deleted.","vault":"archive","tags":"harbor archive","created":1764001200,"confirmed_at":1764001260},
+    {"id":"mem_demo_014","state":"confirmed","title":"Tide documentation language","content":"Tide documentation is written in British English; the API examples are language-neutral.","vault":"current","tags":"tide docs","created":1764001300,"confirmed_at":1764001360},
+
+    {"id":"mem_demo_091_lighthouse","state":"pending","title":"Lighthouse lens interval","content":"The harbour lighthouse in the fictional town of Greyhaven rotates its lens every eight seconds.","vault":"current","tags":"lighthouse greyhaven","created":1764001400,"confirmed_at":null},
+    {"id":"mem_demo_092","state":"pending","title":"Aster backup cadence","content":"Aster backs up its fictional archive every third day, never on the first of the month.","vault":"current","tags":"aster backup","created":1764001500,"confirmed_at":null},
+    {"id":"mem_demo_093","state":"pending","title":"Willow naming","content":"Willow names test environments after trees, not after people.","vault":"current","tags":"willow naming","created":1764001600,"confirmed_at":null},
+    {"id":"mem_demo_094","state":"pending","title":"Kestrel review note","content":"Kestrel's reviewer asked for one diagram per design doc; nobody has confirmed this is a permanent rule.","vault":"current","tags":"kestrel review","created":1764001700,"confirmed_at":null},
+    {"id":"mem_demo_095","state":"pending","title":"Fictional island rule","content":"On the fictional island of Morrow, all doors face east; this detail belongs to a story, not to a project.","vault":"current","tags":"morrow fiction","created":1764001800,"confirmed_at":null},
+
+    {"id":"mem_demo_099","state":"discarded","title":"Old Ferry deadline","content":"A past Ferry deadline that was superseded and soft-deleted; restore is available but pointless here.","vault":"current","tags":"ferry old","created":1764001900,"confirmed_at":1764001960}
+  ]
+}
